@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mor​phed is an AI‑powered image and video generation studio offering over 100 models, including Veo, Kling, Seedance, Nano Banana and Flux. Users can create videos, product ads, portraits, and more via a unified credit balance, with plans starting at $9/month. The service is built and operated by ZTabs, a Houston‑based software company, and provides tools for video upscaling, AI headshots, interior design, and influencer studios. Morphed emphasizes privacy, security, and ethical AI use, with detailed policies linked from its site.
+Morphed is an AI image and video generation platform offering a studio that combines over 100 models, including Veo, Kling, Seedance, Nano Banana, and Flux. Users can create images, videos, headshots, product shots, and more with a credit‑based pricing plan starting at $9/month. The service is built and operated by ZTabs, a software company based in Houston, Texas, and includes tools for video upscaling, UGC ads, and AI‑driven content creation.
 
-**Areas:** AI · Image Generation · Video Generation · SaaS · Houston
+**Areas:** AI · Image Generation · Video Generation · Studio · Platform
 
 ## Morphed on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Morphed is published on APIs.io rather than in this repo
 
 ### APIs (1)
 
-- [Morphed API](https://apis.io/apis/morphed-app/morphed-api/) — Morphed offers an AI‑powered image and video generation API as described on the pricing page.
+- [Morphed API](https://apis.io/apis/morphed-app/morphed-api/) — Morphed provides an AI image and video generation platform accessible via a web interface; no public machine‑readable API contract was found.
 
 ### Published properties
 
@@ -101,7 +101,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://morphed.app/)
 - [Pricing](https://morphed.app/pricing)
 - [Sign up](https://morphed.app/register)
-- [Support](https://morphed.app/contact)
+- [Support](https://morphed.app/support)
 - [Blog](https://morphed.app/blog)
 - [Security](https://morphed.app/security)
 - [Compliance](https://morphed.app/security)
